@@ -1,0 +1,10 @@
+{
+    "version": "0.0.0",
+    "name": "fakebox",
+    "description": "Dropbox API simulator",
+    "dependencies": {
+        "express": "*",
+        "underscore": "*",
+        "waitgroup": "*"
+    }
+}
